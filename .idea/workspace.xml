@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3f41a75-87ef-4589-a9ce-24cef96b48e7" name="Default Changelist" comment="" />
+    <list default="true" id="c3f41a75-87ef-4589-a9ce-24cef96b48e7" name="Default Changelist" comment="">
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/case study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/demo.html" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/case study/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/case study" />
   </component>
   <component name="ProjectId" id="1jUmUnOHsObv5MQB0Ldw6Yo07Qn" />
   <component name="ProjectViewState">
@@ -69,6 +75,9 @@
       <workItem from="1604279745064" duration="1678000" />
       <workItem from="1604281575585" duration="1245000" />
       <workItem from="1604284543098" duration="1627000" />
+      <workItem from="1604286367674" duration="1090000" />
+      <workItem from="1604288493818" duration="3628000" />
+      <workItem from="1604298700677" duration="856000" />
     </task>
     <servers />
   </component>
