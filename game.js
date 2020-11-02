@@ -3,15 +3,15 @@ let images = [
     "ca-ngua.jpg",
     "chim-son-ca.jpg",
     "dau-tranh.jpg",
-    "sao băng.jpg",
-    "sao hỏa.jpg",
+    "saobang.png",
+    "saohoa.jpg",
 
 ];
 let answers = [
     "binh mã",
     "cá ngựa",
     "chim sơn ca",
-    "đấu tramh",
+    "đấu tranh",
     "sao băng",
     "sao hỏa",
 
