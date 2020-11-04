@@ -49,10 +49,10 @@ let Answer = function () {
         if (this.answer === answers[image.index]) {
             alert("tuyệt vời");
             image.changeImage();
-            point.increasePoint();
-            point.getPoint();
-            point.getPointColor();
-            point.resetPoint();
+            point.increasePoint();//tăng điểm
+            point.getPoint();//lấy điểm
+            point.getPointColor();//chỉnh màu
+            point.resetPoint();//điểm
             document.getElementById("inp").value = null;
             if (image.index === 0 ) {
                 alert("Bạn đã thắng cuộc");

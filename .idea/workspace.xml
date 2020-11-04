@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3f41a75-87ef-4589-a9ce-24cef96b48e7" name="Default Changelist" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/case study/game-duoi-hinh-bat-chu.png" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/case study/module1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule1/img/anhgame.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule1/img/hinhnen.jpg" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/case study/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/game.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/case study/game.js" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/img/sao băng.png" beforeDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/img/sao hỏa.jpg" beforeDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/sao băng.png" beforeDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/sao hỏa.jpg" beforeDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/case study/index.html" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/case study/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/binh-ma.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/img/binh-ma.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ca-ngua.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/img/ca-ngua.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chim-son-ca.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/img/chim-son-ca.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dau-tranh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/img/dau-tranh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/giao-tranh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/img/giao-tranh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/nhà nước.png" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/img/nhà nước.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/saobang.png" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/img/saobang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/saohoa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/img/saohoa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pupg.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanhmodule1/nhac/pupg.mp3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +38,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/case study" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jUmUnOHsObv5MQB0Ldw6Yo07Qn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,7 +51,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/jbr/bin/case study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,7 +62,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MY LATOP\case study\case study\thuchanhmodule1" />
+      <recent name="C:\Users\MY LATOP\case study\case study\nhac" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MY LATOP\case study\case study\img" />
       <recent name="C:\Users\MY LATOP\AppData\Local\JetBrains\WebStorm 2020.2.2\jbr\bin\case study" />
     </key>
   </component>
@@ -84,7 +105,17 @@
       <workItem from="1604288493818" duration="3628000" />
       <workItem from="1604298700677" duration="1581000" />
       <workItem from="1604300506340" duration="1009000" />
-      <workItem from="1604301580000" duration="300000" />
+      <workItem from="1604301580000" duration="1891000" />
+      <workItem from="1604303623069" duration="1783000" />
+      <workItem from="1604305497946" duration="1648000" />
+      <workItem from="1604307355861" duration="1882000" />
+      <workItem from="1604309325497" duration="604000" />
+      <workItem from="1604321210186" duration="922000" />
+      <workItem from="1604364992251" duration="591000" />
+      <workItem from="1604369039826" duration="159000" />
+      <workItem from="1604458286491" duration="1913000" />
+      <workItem from="1604471530932" duration="8544000" />
+      <workItem from="1604500523926" duration="391000" />
     </task>
     <servers />
   </component>
@@ -92,13 +123,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="419" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603961702668">
+    <state x="419" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604369153939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="419" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1603961702668" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603867550515">
+    <state x="419" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1604369153939" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604479121052">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603867550515" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604479121052" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604484863336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604484863336" />
   </component>
 </project>
